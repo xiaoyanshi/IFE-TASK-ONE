@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> New Document </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <style type="text/css">
+table tr td,th{border:1px solid #000;}
+</style>
+ </head>
+
+ <body>
+  <h2>图片</h2>
+  <p>好看的图片</p>
+  <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488046609799&di=922d123d532f7b375ba9a4cfb641de2f&imgtype=0&src=http%3A%2F%2Fp6.qhimg.com%2Ft0101e6fbc1128ffc0b.jpg" alt="下载失败" title="美丽的图书馆">
+   <p>好看的图片</p>
+  <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488046609799&di=922d123d532f7b375ba9a4cfb641de2f&imgtype=0&src=http%3A%2F%2Fp6.qhimg.com%2Ft0101e6fbc1128ffc0b.jpg" alt="下载失败" title="美丽的图书馆">
+   <p>好看的图片</p>
+  <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488046609799&di=922d123d532f7b375ba9a4cfb641de2f&imgtype=0&src=http%3A%2F%2Fp6.qhimg.com%2Ft0101e6fbc1128ffc0b.jpg" alt="下载失败" title="美丽的图书馆">
+   <p>好看的图片</p>
+  <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488046609799&di=922d123d532f7b375ba9a4cfb641de2f&imgtype=0&src=http%3A%2F%2Fp6.qhimg.com%2Ft0101e6fbc1128ffc0b.jpg" alt="下载失败" title="美丽的图书馆">
+   <p>好看的图片</p>
+  <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488046609799&di=922d123d532f7b375ba9a4cfb641de2f&imgtype=0&src=http%3A%2F%2Fp6.qhimg.com%2Ft0101e6fbc1128ffc0b.jpg" alt="下载失败" title="美丽的图书馆">
+   <p>好看的图片</p>
+  <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488046609799&di=922d123d532f7b375ba9a4cfb641de2f&imgtype=0&src=http%3A%2F%2Fp6.qhimg.com%2Ft0101e6fbc1128ffc0b.jpg" alt="下载失败" title="美丽的图书馆">
+   <p>好看的图片</p>
+  <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488046609799&di=922d123d532f7b375ba9a4cfb641de2f&imgtype=0&src=http%3A%2F%2Fp6.qhimg.com%2Ft0101e6fbc1128ffc0b.jpg" alt="下载失败" title="美丽的图书馆">
+  <h1>最后一级文章一级标题</h1>
+  <h2>文章二级标题</h2>
+  <p>文章作者 文章发表时间</p>
+  <ol>
+  <li>排名1</li>
+  <li>排名2</li>
+  <li>排名3</li>
+  </ol>
+  <p>下面是一个表格，添加了border=1好让你看出这是一个表格</p>
+  <table>
+  <tbody>
+  <tr>
+  <th>表头</th>
+  <th>表头</th>
+  <th>表头</th>
+  </tr>
+  <tr>
+  <th>表格内容单元格</th>
+  <th>表格内容单元格</th>
+  <th><a href="" target="_blank">操作</a></th>
+  </tr>
+  <tr>
+  <th>表格内容单元格</th>
+  <th>表格内容单元格</th>
+  <th><a href="" target="_blank">操作</a></th>
+  </tr>
+  <tr>
+  <th>表格内容单元格</th>
+  <th>表格内容单元格</th>
+  <th><a href="" target="_blank">操作</a></th>
+  </tr>
+  <tr>
+  <th>表格内容单元格</th>
+  <th>表格内容单元格</th>
+  <th><a href="" target="_blank">操作</a></th>
+  </tr>
+  <tr>
+  <th>总计</th>
+  <th>1000</th>
+  <th></th>
+  </tr>
+  </tbody>
+  </table>
+  <h1>这是最后一个侧栏，这是侧栏的标题</h1>
+  <h2>侧栏注册窗口标题</h2>
+  <form method="post" action="save.php">
+  请输入邮箱地址：
+  <input type="text" name="name1" value="text"/>
+  <p>邮箱地址请按要求格式输入</p>
+  请输入密码：
+  <input type="password" name="name2" value="请输入密码"/>
+  请重复输入密码：
+  <input type="password" name="name3" value="请输入密码"/>
+  <p>密码为6-16位数字</p></br>
+  <label>性别:</label>
+  <label>男</label>
+  <input type="radio" name="gender" checked="checked"/ >
+  <label>女</label>
+  <input type="radio" name="gender"/>
+  <label>城市:</label>
+  <select>
+  <option value="北京" selected="selected">北京</option>
+  <option value="上海">上海</option>
+  <option value="深圳">深圳</option>
+
+  </select>
+  <label>爱好：</label>
+  <label>运动</label>
+  <input type="radio" name="yoyo"/>
+  <label>艺术</label>
+  <input type="radio" name="yoyo"/>
+  <label>科学</label>
+  <input type="radio" name="yoyo"/>
+  <label>个人描述：</label>
+  <textarea cols="30"rows="40">输入内容</textarea>
+  <input type="submit" value="确认提交"><br/><p>版权所有</p>
+  </form>
+
+
+ </body>
+</html>
